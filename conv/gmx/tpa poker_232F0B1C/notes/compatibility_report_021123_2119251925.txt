@@ -1,0 +1,56 @@
+Converting GML script: /Users/3ichael7ambert/GameMakerStudio2/tpa poker/conv/gmx/tpa poker_232F0B1C/objects/dealer/Create_0.gml
+String not found: ConversionLog_ConvertedString 24 'PLACE YOUR BET' "PLACE YOUR BET"
+
+Converting GML script: /Users/3ichael7ambert/GameMakerStudio2/tpa poker/conv/gmx/tpa poker_232F0B1C/objects/dealer/Alarm_3.gml
+String not found: ConversionLog_ConvertedString 28 'PLACE YOUR BET' "PLACE YOUR BET"
+String not found: ConversionLog_ConvertedString 31 'JACKS OR BETTER' "JACKS OR BETTER"
+String not found: ConversionLog_ConvertedString 36 'TWO PAIRS' "TWO PAIRS"
+String not found: ConversionLog_ConvertedString 41 'THREE OF A KIND' "THREE OF A KIND"
+String not found: ConversionLog_ConvertedString 46 'STRAIGHT' "STRAIGHT"
+String not found: ConversionLog_ConvertedString 51 'FLUSH' "FLUSH"
+String not found: ConversionLog_ConvertedString 56 'FULL HOUSE' "FULL HOUSE"
+String not found: ConversionLog_ConvertedString 61 'FOUR OF A KIND' "FOUR OF A KIND"
+String not found: ConversionLog_ConvertedString 66 'STRAIGHT FLUSH' "STRAIGHT FLUSH"
+String not found: ConversionLog_ConvertedString 71 'ROYAL FLUSH' "ROYAL FLUSH"
+
+Converting GML script: /Users/3ichael7ambert/GameMakerStudio2/tpa poker/conv/gmx/tpa poker_232F0B1C/objects/dealer/Keyboard_66.gml
+Converted builtin - line 1: background_color = make_color_rgb(random(256),random(256),random(256)) -> __background_set_colour( make_color_rgb(random(256),random(256),random(256)) )
+
+Converting GML script: /Users/3ichael7ambert/GameMakerStudio2/tpa poker/conv/gmx/tpa poker_232F0B1C/objects/dealer/Draw_0.gml
+String not found: ConversionLog_ConvertedString 2 'BET ' "BET "
+String not found: ConversionLog_ConvertedString 3 'CREDITS ' "CREDITS "
+String not found: ConversionLog_ConvertedString 4 'PEAK ' "PEAK "
+String not found: ConversionLog_ConvertedString 10 'WINNER PAID ' "WINNER PAID "
+String not found: ConversionLog_ConvertedString 18 'select discards' "select discards"
+String not found: ConversionLog_ConvertedString 30 '' ""
+String not found: ConversionLog_ConvertedString 30 '%' "%"
+
+Missing audiogroup for sound: 'click' - setting to default audio group
+Missing audiogroup for sound: 'nono' - setting to default audio group
+Missing audiogroup for sound: 'betting' - setting to default audio group
+Missing audiogroup for sound: 'flip' - setting to default audio group
+Missing audiogroup for sound: 'choosesnd' - setting to default audio group
+Missing audiogroup for sound: 'win' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'background/__background_set_colour.gml'
+Added compatibility script 'background/__background_get_colour_element.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_if_question.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_if.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_draw_font_old.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_highscore.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
